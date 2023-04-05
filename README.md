@@ -14,12 +14,12 @@ The product will comprise of 2 x PCBs that will be referred throughout the cours
   * Output: 22.5W(max)
   * PCB Dimension: Not defined yet
   * Weight: Not defined yet
-  * Output Types: Type-A x 1; Type-C x 1; Wireless Charge x 1; iPhone Slot (no clarity yet)
-  * Input: Prongs for supplying power (preferably spring contacts TBD)
+  * Output Types: Type-A x 1; Type-C x 1; Wireless Charge x 1
+  * Input: Prongs for supplying power; preferably spring contacts
   * Battery type: Li-polymer 1S
   
 * The circuit should provide support for charing the battery and delivering output specified in the list above.
-* LED display or separate LEDs TBD.
+* 3 x LEDs will be used. Red (0 - 20), Amber (20 - 80), Green (80 - 100).
 * There will be a magnetic lock on the PCB. It is not yet decided how that lock will be controlled.
 * The confirmation of above points will decide if an MCU is required or not.
 
