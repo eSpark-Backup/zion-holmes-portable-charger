@@ -65,7 +65,7 @@ DocumentUniqueId=BLKCXQYM
 
 [Document2]
 DocumentPath=Wireless-Charger-Sheet.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -82,12 +82,12 @@ DocumentUniqueId=MGXUYYLG
 
 [Document3]
 DocumentPath=Top-Sheet.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
