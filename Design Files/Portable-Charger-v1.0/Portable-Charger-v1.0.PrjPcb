@@ -114,6 +114,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVSYJFFS
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Portable-Charger-v1.0\Design Rule Check - Portable-Charger-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
