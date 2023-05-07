@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Portable-Charger-v1.0.PrjPcb]
+   Generated File[Portable-Charger-v1.0.GTO]
+   Generated File[Portable-Charger-v1.0.GTP]
+   Generated File[Portable-Charger-v1.0.GTS]
+   Generated File[Portable-Charger-v1.0.GTL]
+   Generated File[Portable-Charger-v1.0.GBL]
+   Generated File[Portable-Charger-v1.0.GBS]
+   Generated File[Portable-Charger-v1.0.GBP]
+   Generated File[Portable-Charger-v1.0.GBO]
+   Generated File[Portable-Charger-v1.0.GM2]
+   Generated File[Portable-Charger-v1.0.GKO]
+   Generated File[Portable-Charger-v1.0.GPT]
+   Generated File[Portable-Charger-v1.0.GPB]
+   Generated File[Portable-Charger-v1.0.GD1]
+   Generated File[Portable-Charger-v1.0.GG1]
+   Generated File[Portable-Charger-v1.0.RUL]
+   Generated File[Portable-Charger-v1.0.EXTREP]
+   Generated File[Portable-Charger-v1.0.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 3:12:48 PM On 5/7/2023
