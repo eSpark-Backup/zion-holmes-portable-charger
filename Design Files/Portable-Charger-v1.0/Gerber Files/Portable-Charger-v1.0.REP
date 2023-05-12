@@ -2,55 +2,43 @@
 FileName = Portable-Charger-v1.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : Portable-Charger-v1.0.GPT
+Generating : Board Outline
+      File : Portable-Charger-v1.0.GM2
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D186
-    D187
-    D188
-    D189
-    D190
-    D191
-    D192
-    D193
-    D194
-    D195
-    D196
+    D11
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Portable-Charger-v1.0.GPB
+Generating : Keep-Out Layer
+      File : Portable-Charger-v1.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Portable-Charger-v1.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D226
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Portable-Charger-v1.0.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -58,75 +46,35 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D186
-    D187
-    D188
-    D189
-    D190
-    D191
-    D192
-    D193
-    D194
-    D195
-    D196
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Portable-Charger-v1.0.GTO
+Generating : Bottom Solder
+      File : Portable-Charger-v1.0.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
 
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Portable-Charger-v1.0.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
 *************************************************************
 
 *************************************************************
@@ -180,39 +128,138 @@ Used DCodes :
     D80
     D81
     D82
+    D83
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Portable-Charger-v1.0.GBO
+Generating : Top Paste
+      File : Portable-Charger-v1.0.GTP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Portable-Charger-v1.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
     D11
-    D219
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : Portable-Charger-v1.0.GKO
+Generating : Top Pad Master
+      File : Portable-Charger-v1.0.GPT
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : Portable-Charger-v1.0.GM2
+Generating : Bottom Pad Master
+      File : Portable-Charger-v1.0.GPB
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
 *************************************************************
 
 *************************************************************
@@ -227,15 +274,12 @@ Generating : Bottom Layer
 Used DCodes :
     D11
     D14
-    D83
     D84
     D85
     D86
     D87
-    D89
-    D186
-    D187
-    D188
+    D88
+    D90
     D189
     D190
     D191
@@ -266,6 +310,13 @@ Used DCodes :
     D216
     D217
     D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
 *************************************************************
 
 *************************************************************
@@ -280,7 +331,6 @@ Generating : Top Layer
 Used DCodes :
     D11
     D14
-    D20
     D21
     D22
     D23
@@ -304,7 +354,6 @@ Used DCodes :
     D41
     D42
     D43
-    D83
     D84
     D85
     D86
@@ -419,47 +468,11 @@ Used DCodes :
     D195
     D196
     D197
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Portable-Charger-v1.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Portable-Charger-v1.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D198
+    D199
+    D200
+    D201
+    D202
 *************************************************************
 
 *************************************************************
@@ -473,10 +486,10 @@ Generating : Drill Drawing
 
 Used DCodes :
     D11
-    D86
-    D220
-    D221
-    D222
+    D88
+    D227
+    D228
+    D229
 *************************************************************
 
 *************************************************************
@@ -489,6 +502,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D220
+    D227
 *************************************************************
 
