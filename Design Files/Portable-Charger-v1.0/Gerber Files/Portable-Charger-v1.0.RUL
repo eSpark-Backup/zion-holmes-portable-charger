@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\eSpark\Documents\GitHub\ZionHolmes-PortableCharger\Design Files\Portable-Charger-v1.0\Portable-Charger-v1.0.PcbDoc
+DRC Rules Export File for PCB: C:\Users\XPENDER\Documents\GitHub\ZionHolmes-PortableCharger\Design Files\Portable-Charger-v1.0\Portable-Charger-v1.0.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
